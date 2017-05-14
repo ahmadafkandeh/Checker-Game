@@ -1,0 +1,10 @@
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\bin\Debug\Checker.exe
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\bin\Debug\Checker.pdb
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\Checker.csprojResolveAssemblyReference.cache
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\Checker.csproj.GenerateResource.Cache
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\Checker.exe
+E:\projects\Personal\Computer\C#\Checker Game\Checker-Game.git\obj\x86\Debug\Checker.pdb
